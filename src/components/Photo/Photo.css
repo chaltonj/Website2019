@@ -1,0 +1,10 @@
+.photo__container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.photo__photo {
+    width: 100%;
+}
